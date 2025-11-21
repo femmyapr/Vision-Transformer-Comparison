@@ -1,0 +1,15 @@
+Hardware yang digunakan: 
+- GPU NVIDIA (RTX 2060 ke atas)
+- RAM minimal 8 GB
+- VRAM minimal 6 GB
+
+Depedencies yang digunakan:
+- torch
+- torchvision
+- timm
+- tqdm
+- scikit-learn
+- numpy
+- matplotlib
+- pandas
+- seaborn
